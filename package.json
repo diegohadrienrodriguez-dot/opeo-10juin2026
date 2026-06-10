@@ -1,0 +1,17 @@
+{
+  "name": "opeo-site",
+  "version": "1.0.0",
+  "description": "Site vitrine du cabinet de conseil industriel OPEO. Site statique HTML/CSS/JS, sans framework.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "playwright": "^1.59.1"
+  }
+}
